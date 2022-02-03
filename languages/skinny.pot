@@ -1,0 +1,27 @@
+# Copyright (C) 2022 Vee W.
+# This file is distributed under the MIT.
+msgid ""
+msgstr ""
+"Project-Id-Version: Skinny 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/skinny\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-02-03T15:28:27+07:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: skinny\n"
+
+#. Theme Name of the theme
+msgid "Skinny"
+msgstr ""
+
+#. Description of the theme
+msgid "The most basic functional theme to test what is required CSS classes, PHP functions for the theme."
+msgstr ""
+
+#. Author of the theme
+msgid "Vee W."
+msgstr ""
