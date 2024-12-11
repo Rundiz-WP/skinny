@@ -2,7 +2,7 @@
 Contributors: Vee W.
 Tags: blog, two-columns, right-sidebar
 Requires at least: 5.0
-Tested up to: 5.9
+Tested up to: 6.8
 Stable tag: 0.1
 License: MIT
 License URI: https://opensource.org/licenses/MIT
@@ -18,6 +18,8 @@ The most basic functional theme that passed Theme Check and included recommended
 This is the classic theme.
 
 This file is required by Theme Check.
+
+Tested up to PHP 8.4.
 
 == Changelog ==
 = 0.1 =
