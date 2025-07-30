@@ -2,7 +2,7 @@
 Contributors: Vee W.
 Tags: blog, two-columns, right-sidebar
 Requires at least: 5.0
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 0.1
 License: MIT
 License URI: https://opensource.org/licenses/MIT
