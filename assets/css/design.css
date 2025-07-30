@@ -109,6 +109,7 @@ html, body {
         width: auto;
     }
     .site-main-column {
+        flex-basis: 0;
         flex-grow: 1;
     }
     .site-sidebar {
